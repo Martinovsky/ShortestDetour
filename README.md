@@ -1,0 +1,2 @@
+# ShortestDetour
+This program was made to support my application to Lyft. It calculate the detour distance between two different rides. Given four latitude / longitude pairs, where driver one is traveling from point A to point B and driver two is traveling from point C to point D, this program calculate the shorter of the detour distances the drivers would need to take to pick-up and drop-off the other driver.
